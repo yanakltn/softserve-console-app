@@ -1,0 +1,14 @@
+{
+  "name": "softserve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1/main1.js",
+  "scripts": {
+    "test": "jasmine **/*.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  }
+}
